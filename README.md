@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Oi! Seja muito bem vindo!!! 👋 </h1>
+    <h1> Oi! Seja muito bem vindo!!! 🖖 </h1>
    
         🔭 Atualmente eu trabalho com desenvolvimento Web na DevInsights.
         🌱 Estou aprendendo sobre Javascript e Angular.
