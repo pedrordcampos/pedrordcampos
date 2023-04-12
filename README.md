@@ -8,7 +8,7 @@
 </div>  
 
 <div align="center">    
-  <h6> Logo abaixo está uma lista com as principais tecnologias com as quais tive contato no trabalho recentemente. Obviamente umas eu tenho mais          conhecimentos outras menos, mas todas foram fundamentais para o meu crescimento e aprendizagem na área de tecnologia. E não vai parar por aqui, estou     sempre aprendendo coisas novas! </h4>
+  <h6> Logo abaixo está uma lista com as principais tecnologias das quais tive contato no trabalho recentemente. Obviamente umas eu tenho mais          conhecimentos outras menos, mas todas foram fundamentais para o meu crescimento e aprendizagem na área de tecnologia até agora. E não vai parar por aqui, estou sempre aprendendo coisas novas! </h4>
 </div>
 
 <div align="justify">
