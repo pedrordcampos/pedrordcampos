@@ -2,8 +2,8 @@
 <h1 align="center"> Oi! Seja muito bem vindo!!! 🖖 </h1>
 <div align="center">    
     
-    👩‍💻 Atualmente eu trabalho com desenvolvimento Web na DevInsights.
-    📚 Estou aprendendo sobre Javascript e Angular.
+    👩‍💻 Atualmente eu trabalho como professor de ensino técnico no projeto Novotec. Ensino técnico integrado ao Ensino Médio.
+    📚 Estou revendo conteúdos sobre HTML, CSS e Javascript. 
     
 </div>  
 
