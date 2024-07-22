@@ -2,9 +2,9 @@
 <h1 align="center"> Oi! Seja muito bem vindo!!! 🖖 </h1>
 <div align="center">    
     
-    ♟️ Entusiasta em xadrez. 
-    🇪🇸 Aprendiendo español.
-    📚 Atualmente estou revendo conteúdos sobre HTML, CSS e Javascript. 
+    ♟️ Entusiasta na arte de Caíssa * Xadrez. 
+    🇪🇸 Aprendiendo un nuevo idioma: Español.
+    📚 Revendo conteúdos sobre HTML, CSS e Javascript. 
     
 </div>  
 
