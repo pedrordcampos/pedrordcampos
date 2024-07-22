@@ -1,7 +1,7 @@
 
 <h1 align="center"> Oi! Seja muito bem vindo!!! 🖖 </h1>
 <div align="center">    
-    <h2>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão." (Rafael Lain)</h2>
+    <h4>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão." (Rafael Lain)</h4>
     ♟️ Entusiasta na arte de Caíssa * Xadrez. 
     🇪🇸 Aprendiendo un nuevo idioma: Español.
     📚 Revendo conteúdos sobre HTML, CSS e Javascript. 
