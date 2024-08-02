@@ -5,7 +5,7 @@
     
     ♟️ Entusiasta na arte de Caíssa (Xadrez). 
     🇪🇸 Aprendiendo un nuevo idioma: Español.
-    📚 Revendo conteúdos sobre HTML, CSS e Javascript. 
+    📚 Estudando Python para o concurso da Secretaria da Educação. 
     
 </div>  
 
