@@ -55,7 +55,7 @@
     ▶️ **Canal sobre Tecnologia no YouTube: [Algoritmei]** 
     </div>
     <div align="center">
-    🎥 **Algoritmei** é um canal dedicado a **aulas sobre tecnologia, programação** e tudo o que envolve o mundo da computação. Se você está em busca de conteúdo     claro e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
+    🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
     </div>
 </div>
 
@@ -64,7 +64,9 @@
 <div align="center">
     🔔 Não perca a oportunidade de acompanhar e aprender com a gente. **Acesse agora** e se inscreva para ficar por dentro de todas as novidades e vídeos!
 </div>
-    <div align="center">
+
+---
+<div align="center">
         <a href="https://www.youtube.com/@algoritmei" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
         </a>
