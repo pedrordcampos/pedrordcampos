@@ -22,6 +22,8 @@
 <div align="center">
     <h3>Tecnologias & Ferramentas</h3>
     ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente
+</div>
+    <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
