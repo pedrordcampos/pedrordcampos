@@ -51,6 +51,7 @@
 
 <div align="center">
     <h3>Novo Projeto!</h3>
+        <br><br>
     <div align="center">
     ▶️ **Canal sobre Tecnologia no YouTube: [Algoritmei]** 
     </div>
@@ -62,7 +63,7 @@
 <div align="center">
     🔔 Não perca a oportunidade de acompanhar e aprender com a gente. **Acesse agora** e se inscreva para ficar por dentro de todas as novidades e vídeos!
 </div>
-    <br><br>
+    <br>
 <div align="center">
         <a href="https://www.youtube.com/@algoritmei" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
