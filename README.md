@@ -30,7 +30,8 @@
     💻 Sou um desenvolvedor apaixonado por tecnologia e por compartilhar conhecimento.  
     🚀 Sempre em busca de aprender algo novo, seja um novo framework, uma nova linguagem ou uma nova cultura.  
     🤝 Adoro colaborar em projetos open-source e contribuir para a comunidade.
-    </div>
+    
+</div>
 
 <div align="center">
     <h3>Vamos nos conectar?</h3>
@@ -47,6 +48,7 @@
 <div align="center">
     <h3>Novo Projeto!</h3>
     ▶️ Canal sobre Tecnologia no YouTube:  
+    
     <a href="https://www.youtube.com/@algoritmei" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
