@@ -2,7 +2,7 @@
 
 <div align="center">
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
-    
+    👨‍🏫 Professor de Tecnologia da Informação
    ♟️ Entusiasta da arte de Caíssa (Xadrez).  
    🌍 Explorando novas culturas e aprendendo Espanhol 🇪🇸.  
    📚 Sempre atualizando meus projetos e expandindo meu conhecimento.  
