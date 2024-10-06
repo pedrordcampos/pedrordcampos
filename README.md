@@ -26,11 +26,15 @@
 
 <div align="center">
     <h3>Sobre mim</h3>
-    <div align="center">
-        💻 Sou um desenvolvedor apaixonado por tecnologia e por compartilhar conhecimento. 
-        🚀 Sempre em busca de aprender algo novo, seja um novo framework, uma nova linguagem ou uma nova cultura. 
+        <div align="center">
+            💻 Sou um desenvolvedor apaixonado por tecnologia e por compartilhar conhecimento.
+        </div>
+        <div align="center">
+            🚀 Sempre em busca de aprender algo novo, seja um novo framework, uma nova linguagem ou uma nova cultura. 
+        </div>
+        <div align="center">
         🤝 Adoro colaborar em projetos open-source e contribuir para a comunidade. 
-    </div>
+        </div>
 </div>
 
 <div align="center">
