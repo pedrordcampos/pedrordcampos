@@ -50,8 +50,7 @@
 ---
 
 <div align="center">
-    <h3>Novo Projeto!</h3>
-        <br>
+    <h3>Novo Projeto!</h3>        
     <div align="center">
     ▶️ Canal sobre Tecnologia no YouTube: [Algoritmei] 
     </div>
@@ -61,7 +60,7 @@
 </div>
     <br>
 <div align="center">
-    🔔 Não perca a oportunidade de acompanhar e aprender com a gente. **Acesse agora** e se inscreva para ficar por dentro de todas as novidades e vídeos!
+    🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <bold>Acesse agora</bold> e se inscreva para ficar por dentro de todas as novidades e vídeos!
 </div>
     <br>
 <div align="center">
