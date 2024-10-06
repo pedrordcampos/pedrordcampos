@@ -5,9 +5,15 @@
 </div>
 
 <div align="center">
-    👨‍🏫 Professor de Tecnologia da Informação
+    👨‍🏫 Professor de Tecnologia da Informação.
+</div>
+<div align="center">
    ♟️ Entusiasta da arte de Caíssa (Xadrez).  
+</div>
+<div align="center">
    🌍 Explorando novas culturas e aprendendo Espanhol 🇪🇸.  
+</div>
+<div align="center">
    📚 Sempre atualizando meus projetos e expandindo meu conhecimento.  
 </div>
 
