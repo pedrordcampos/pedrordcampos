@@ -60,7 +60,7 @@
 </div>
     <br>
 <div align="center">
-    🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <bold>Acesse agora</bold> e se inscreva para ficar por dentro de todas as novidades e vídeos!
+    🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <2>Acesse agora</h2> e se inscreva para ficar por dentro de todas as novidades e vídeos!
 </div>
     <br>
 <div align="center">
