@@ -29,7 +29,8 @@
     💻 Sou um desenvolvedor apaixonado por tecnologia e por compartilhar conhecimento.  
     🚀 Sempre em busca de aprender algo novo, seja um novo framework, uma nova linguagem ou uma nova cultura.  
     🤝 Adoro colaborar em projetos open-source e contribuir para a comunidade.
-    ▶️ Novo Projeto! Canal sobre Tecnologia no Youtube: <a href="https://www.youtube.com/@algoritmei" target="_blank">
+    ▶️ Novo Projeto! Canal sobre Tecnologia no Youtube: 
+    <a href="https://www.youtube.com/@algoritmei" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
 <div align="center">
