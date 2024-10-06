@@ -53,7 +53,7 @@
     <h3>Novo Projeto!</h3>
         <br>
     <div align="center">
-    ▶️ <h2>Canal sobre Tecnologia no YouTube: [Algoritmei]</h2> 
+    ▶️ Canal sobre Tecnologia no YouTube: [Algoritmei] 
     </div>
     <div align="center">
     🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
