@@ -1,4 +1,12 @@
+[Português](#português) | [Español](#español)
+
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
+
+## Português
+<h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
+
+## Español
+<h1 align="center">¡Hola! ¡Muy bienvenido!!! 🖖</h1>
 
 <div align="center">
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
