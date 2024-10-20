@@ -1,5 +1,11 @@
 <h1 align="center">Hi! You're very welcome!!! 🖖</h1>
 
+<div align="center">
+
+#### [Português](README.md) | [Español](README.es.md)
+
+</div>
+
 #### [Português](README.md) | [Español](README.es.md)
 
 <div align="center">
