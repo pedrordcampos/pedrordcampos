@@ -1,3 +1,5 @@
+[Ver en Español](README.es.md)
+
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
 
 <div align="center">
