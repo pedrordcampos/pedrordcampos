@@ -1,7 +1,5 @@
 [Português](#português) | [Español](#español)
 
-<h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
-
 ## Português
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
 
