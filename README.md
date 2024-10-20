@@ -1,6 +1,6 @@
-[Español](README.es.md)
-
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
+
+[Español](README.es.md) | [English](README.en.md)
 
 <div align="center">
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
