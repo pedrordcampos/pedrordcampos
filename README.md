@@ -1,34 +1,4 @@
-[Ver en Español](#)
-
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
-
-<p align="center">
-  🌟 Este é o meu cantinho no mundo da programação! 🌟
-</p>
-
-<details>
-  <summary>Ver en Español</summary>
-
-  <h1 align="center">¡Hola! ¡Muy bienvenido!!! 🖖</h1>
-
-  <p align="center">
-    🌟 ¡Este es mi rincón en el mundo de la programación! 🌟
-  </p>
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
