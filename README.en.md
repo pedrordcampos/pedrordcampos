@@ -6,8 +6,6 @@
 
 </div>
 
-#### [Português](README.md) | [Español](README.es.md)
-
 <div align="center">
     <h4>"Programmers and artists are the only professionals who have their profession as a hobby." — <i>Rafael Lain</i></h4>
 </div>
