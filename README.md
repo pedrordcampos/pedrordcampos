@@ -1,11 +1,13 @@
 #### Select your language: 
 
-<a href="README.es.md">
+<div align="center">
+    <a href="README.es.md">
         <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px;">
     </a>
     <a href="README.en.md">
         <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
     </a>
+</div>
 
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 </h1>
 
@@ -14,26 +16,20 @@
 </div>
 
 <div align="center">
-    👨‍🏫 Professor de Tecnologia da Informação.
-</div>
-<div align="center">
-   ♟️ Entusiasta da arte de Caíssa (Xadrez).  
-</div>
-<div align="center">
-   🌍 Explorando novas culturas e aprendendo Espanhol 🇪🇸.  
-</div>
-<div align="center">
-   📚 Sempre atualizando meus projetos e expandindo meu conhecimento.  
+    👨‍🏫 Professor de Tecnologia da Informação. <br>
+    ♟️ Entusiasta da arte de Caíssa (Xadrez). <br>
+    🌍 Explorando novas culturas e aprendendo Espanhol 🇪🇸. <br>
+    📚 Sempre atualizando meus projetos e expandindo meu conhecimento.  
 </div>
 
 ---
 
 <div align="center">
     <h3>Tecnologias & Ferramentas</h3>
-    ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente 
+    <p>✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:</p>
 </div>
-<br>
-    <div align="center">
+
+<div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
@@ -41,23 +37,19 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
 ---
 
 <div align="center">
     <h3>Sobre mim</h3>
-        <div align="center">
-            💻 Sou um desenvolvedor apaixonado por tecnologia e por compartilhar conhecimento.
-        </div>
-        <div align="center">
-            🚀 Sempre em busca de aprender algo novo, seja um novo framework, uma nova linguagem ou uma nova cultura. 
-        </div>
-        <div align="center">
-        🤝 Adoro colaborar em projetos open-source e contribuir para a comunidade. 
-        </div>
+    <p>💻 Sou um desenvolvedor apaixonado por tecnologia e por compartilhar conhecimento.</p>
+    <p>🚀 Sempre em busca de aprender algo novo, seja um novo framework, uma nova linguagem ou uma nova cultura.</p>
+    <p>🤝 Adoro colaborar em projetos open-source e contribuir para a comunidade.</p>
 </div>
+
+---
 
 <div align="center">
     <h3>Vamos nos conectar?</h3>
@@ -82,30 +74,20 @@
 
 <div align="center">
     <h3>Novo Projeto!</h3>        
-    <div align="center">
-    ▶️ Canal sobre Tecnologia no YouTube: [Algoritmei] 
-    </div>
-    <div align="center">
-    🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
-    </div>
+    <p>▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a></p>
+    <p>🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!</p>
+    <p>🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
 </div>
-    <br>
+
 <div align="center">
-    🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <h2>Acesse agora</h2> e se inscreva para ficar por dentro de todas as novidades e vídeos!
-</div>
-    <br>
-<div align="center">
-        <a href="https://www.youtube.com/@algoritmei" target="_blank">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-        </a>
-    </div>
+    <a href="https://www.youtube.com/@algoritmei" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
 </div>
 
 ---
 
-<div>
+<div align="center">
     <p>"Imagens das bandeiras cedidas por:"</p>
-
-###### https://br.freepik.com
+    <p>###### https://br.freepik.com</p>
 </div>
-
