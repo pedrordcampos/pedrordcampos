@@ -1,7 +1,7 @@
 ##### Select your language: 
 
 <div>
-<img src="espanha.png" alt="Bandeira da Espanha">
+<img src="espanha.png" alt="Bandeira da Espanha" style="width:10%">
 <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos">
 </div>
 
