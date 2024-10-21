@@ -1,15 +1,11 @@
-<h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
-
-<div align="center">
+<h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 
     <a href="README.es.md">
         <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
     </a>
     <a href="README.en.md">
         <img src="Estados Unidos.jpg" alt="Bandeira dos Estados Unidos" style="width: 40px; height: 21px;">
     </a>
-  </div>
-
-   
+</h1>
 
 <div align="center">
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
