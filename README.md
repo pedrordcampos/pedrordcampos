@@ -1,7 +1,5 @@
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
 
-####  [Español](README.es.md) • [English](README.en.md) •
-
 <div>
     <a href="README.es.md">
         <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
