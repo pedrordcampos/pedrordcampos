@@ -1,5 +1,5 @@
 ##### Select your language: 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <a href="README.es.md">
         <img src="espanha.png" alt="Bandeira da Espanha" style="width:60px; height: auto;">
     </a> 
