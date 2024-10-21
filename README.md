@@ -1,8 +1,8 @@
 ##### Select your language: 
 
 <div>
-<img src="espanha.png" alt="Bandeira da Espanha" style="height:3%">
-<img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width:2%;">
+<img src="espanha.png" alt="Bandeira da Espanha">
+<img src="estadosunidos.png" alt="Bandeira dos Estados Unidos">
 </div>
 
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 </h1>
