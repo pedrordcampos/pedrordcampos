@@ -1,10 +1,6 @@
 ##### Select your language: 
-<table>
-  <tr>
-    <td><img src="espanha.png" alt="Bandeira da Espanha"></td>
-    <td><img src="estadosunidos.png" alt="Bandeira dos Estados Unidos"></td>
-  </tr>
-</table>
+<img src="espanha.png" alt="Bandeira da Espanha">
+<img src="estadosunidos.png" alt="Bandeira dos Estados Unidos">
 
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 </h1>
 
