@@ -101,3 +101,9 @@
     </div>
 </div>
 
+<div>
+    <p>"Imagens das bandeiras cedidas por:"</p>
+
+###### https://br.freepik.com
+</div>
+
