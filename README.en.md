@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#### [Português](README.md) | [Español](README.es.md)
+#### • [Português](README.md) • [Español](README.es.md) •
 
 </div>
 
