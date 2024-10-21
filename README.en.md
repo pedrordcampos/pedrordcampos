@@ -108,7 +108,7 @@
 ---
 
 <div>
-    <p>Imagens das bandeiras cedidas por:</p>
+    <p>"Images of the flags provided by:"</p>
 
 ###### https://br.freepik.com
 </div>
