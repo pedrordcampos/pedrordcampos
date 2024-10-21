@@ -2,7 +2,7 @@
 
 <div>
 <img src="espanha.png" alt="Bandeira da Espanha" style="height:50px;">
-<img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width:43px;">
+<img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width:46px;">
 </div>
 
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 </h1>
