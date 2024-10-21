@@ -1,12 +1,13 @@
 ##### Select your language: 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="README.es.md">
-        <img src="espanha.png" alt="Bandeira da Espanha" style="width:60px;">
-    </a> |||
+        <img src="espanha.png" alt="Bandeira da Espanha" style="width:60px; height: auto;">
+    </a> 
     <a href="README.en.md">
-        <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width:60px;">
+        <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width:60px; height: auto;">
     </a>
 </div>
+
 
 
 
