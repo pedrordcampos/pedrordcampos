@@ -1,9 +1,9 @@
 ##### Select your language: 
 <a href="README.es.md">
-    <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
+    <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
 </a>
 <a href="README.md">
-    <img src="Brasil.jpg" alt="Bandeira do Brasil" style="width: 40px; height: 21.5px;">
+    <img src="brasil.png" alt="Bandeira do Brasil" style="width: 40px; height: 21.5px;">
 </a>
 
 <h1 align="center">Hi! You're very welcome!!! 🖖</h1>
