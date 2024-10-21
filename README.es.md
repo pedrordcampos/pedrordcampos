@@ -1,9 +1,14 @@
+<a href="README.md">
+    <img src="Brasil.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
+</a>
+<a href="README.en.md">
+    <img src="Estados Unidos.jpg" alt="Bandeira dos Estados Unidos" style="width: 40px; height: 21px;">
+</a>
+
 <h1 align="center">¡Hola! ¡Muy bienvenido!!! 🖖</h1>
 
 <div align="center">
     
-#### • [Português](README.md) • [English](README.en.md) •
-
 </div>
 
 <div align="center">
