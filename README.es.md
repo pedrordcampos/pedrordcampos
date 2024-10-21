@@ -10,15 +10,11 @@
 <h1 align="center">¡Hola! ¡Muy bienvenido!!! 🖖</h1>
 
 <div align="center">
-    
-</div>
-
-<div align="center">
     <h4>"Los programadores y los artistas son los únicos profesionales que tienen como hobby su propia profesión." — <i>Rafael Lain</i></h4>
 </div>
 
 <div align="center">
-    👨‍🏫 Profesor de Tecnología de la Información.
+    👨‍🏫 Profesor de Tecnología de la Información.  
 </div>
 <div align="center">
    ♟️ Entusiasta del arte de Caíssa (Ajedrez).  
@@ -37,7 +33,7 @@
     ✏️ A continuación, las tecnologías y herramientas más utilizadas recientemente 
 </div>
 <br>
-    <div align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
@@ -45,22 +41,22 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
 ---
 
 <div align="center">
     <h3>Sobre mí</h3>
-        <div align="center">
-            💻 Soy un desarrollador apasionado por la tecnología y por compartir conocimiento.
-        </div>
-        <div align="center">
-            🚀 Siempre en busca de aprender algo nuevo, ya sea un nuevo framework, un nuevo lenguaje o una nueva cultura.
-        </div>
-        <div align="center">
+    <div align="center">
+        💻 Soy un desarrollador apasionado por la tecnología y por compartir conocimiento.
+    </div>
+    <div align="center">
+        🚀 Siempre en busca de aprender algo nuevo, ya sea un nuevo framework, un nuevo lenguaje o una nueva cultura.
+    </div>
+    <div align="center">
         🤝 Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad.
-        </div>
+    </div>
 </div>
 
 <div align="center">
@@ -87,29 +83,26 @@
 <div align="center">
     <h3>¡Nuevo Proyecto!</h3>        
     <div align="center">
-    ▶️ Canal sobre Tecnología en YouTube: [Algoritmei] 
+        ▶️ Canal sobre Tecnología en YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
     </div>
     <div align="center">
-    🎥 Si estás buscando contenido claro y didáctico para aprender sobre lenguajes de programación, desarrollo de software y otras herramientas tecnológicas, ¡este es el lugar para ti!
+        🎥 Si estás buscando contenido claro y didáctico para aprender sobre lenguajes de programación, desarrollo de software y otras herramientas tecnológicas, ¡este es el lugar para ti!
     </div>
 </div>
-    <br>
+<br>
 <div align="center">
     🔔 No pierdas la oportunidad de seguirnos y aprender con nosotros. <h2>¡Accede ahora!</h2> y suscríbete para estar al tanto de todas las novedades y videos.
 </div>
-    <br>
+<br>
 <div align="center">
-        <a href="https://www.youtube.com/@algoritmei" target="_blank">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-        </a>
-    </div>
+    <a href="https://www.youtube.com/@algoritmei" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
 </div>
 
 ---
 
 <div>
     <p>"Imágenes de las banderas cedidas por:"</p>
-
-###### https://br.freepik.com
+    <p>https://br.freepik.com</p>
 </div>
-
