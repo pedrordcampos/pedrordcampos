@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><img src="espanha.png" alt="Bandeira da Espanha" style="width:60px;"></td>
-    <td><img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="heigth:20px"></td>
+    <td><img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="height:20px"></td>
   </tr>
 </table>
 
