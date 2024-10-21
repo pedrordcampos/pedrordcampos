@@ -87,7 +87,7 @@
 
 ---
 
-<div align="center">
+<div>
     <p>"Imagens das bandeiras cedidas por:"</p>
     <p>https://br.freepik.com</p>
 </div>
