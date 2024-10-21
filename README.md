@@ -1,13 +1,18 @@
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖</h1>
 
 <div>
-    <a href="README.es.md">
-        <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
-    </a>
-    <a href="README.en.md">
-        <img src="Estados Unidos.jpg" alt="Bandeira dos Estados Unidos" style="width: 40px; height: 21px;">
-    </a>
+    <span style="margin-right: 10px;">
+        <a href="README.es.md">
+            <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
+        </a>
+    </span>
+    <span>
+        <a href="README.en.md">
+            <img src="Estados Unidos.jpg" alt="Bandeira dos Estados Unidos" style="width: 40px; height: 21px;">
+        </a>
+    </span>
 </div>
+
    
 
 <div align="center">
