@@ -1,10 +1,10 @@
 ##### Select your language: 
 <div>
     <a href="README.es.md">
-        <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px; height: auto; margin-right: 22px;">
+        <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
     </a>
     <a href="README.en.md">
-        <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;>
+        <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 55px;>
     </a>
 </div>
 
