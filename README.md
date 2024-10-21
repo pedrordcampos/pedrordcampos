@@ -1,8 +1,8 @@
 ##### Select your language: 
 <table>
   <tr>
-    <td><img src="espanha.png" alt="Bandeira da Espanha" style="width:60px;"></td>
-    <td><img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="height:20px"></td>
+    <td><img src="espanha.png" alt="Bandeira da Espanha" style=""></td>
+    <td><img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="height:50px"></td>
   </tr>
 </table>
 
