@@ -2,10 +2,10 @@
 
 <a href="README.es.md">
   <img src="espanha.png" alt="Bandeira da Espanha" style="width:60px;">
-</a>
+
 <a href="README.en.md">
   <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width:65px; height: 47px;">
-</a>
+
 
 
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 </h1>
