@@ -1,9 +1,10 @@
-##### Select your language: 
+#### Select your language:
+
 <a href="README.es.md">
-    <img src="espanha.png" alt="Bandeira da Espanha">
+    <img src="espanha.png" alt="Bandeira da Espanha" style="width:40px;">
 </a>
 <a href="README.md">
-    <img src="brasil.png" alt="Bandeira do Brasil">
+    <img src="brasil.png" alt="Bandeira do Brasil" style="width:40px;">
 </a>
 
 <h1 align="center">Hi! You're very welcome!!! 🖖</h1>
