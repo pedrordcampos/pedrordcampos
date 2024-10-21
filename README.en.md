@@ -1,10 +1,10 @@
 #### Select your language:
 
 <a href="README.es.md">
-    <img src="espanha.png" alt="Bandeira da Espanha" style="width:40px;">
+    <img src="espanha.png" alt="Flag of Spain" style="width:40px;">
 </a>
 <a href="README.md">
-    <img src="brasil.png" alt="Bandeira do Brasil" style="width:40px;">
+    <img src="brasil.png" alt="Flag of Brazil" style="width:40px;">
 </a>
 
 <h1 align="center">Hi! You're very welcome!!! 🖖</h1>
@@ -37,7 +37,7 @@
     ✏️ Below are the technologies and tools most recently used 
 </div>
 <br>
-    <div align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
 ---
@@ -93,23 +93,20 @@
     🎥 If you're looking for clear and didactic content to learn about programming languages, software development, and other technological tools, this is the place for you!
     </div>
 </div>
-    <br>
+<br>
 <div align="center">
     🔔 Don't miss the chance to follow and learn with us. <h2>Access now</h2> and subscribe to stay up to date with all the news and videos!
 </div>
-    <br>
+<br>
 <div align="center">
         <a href="https://www.youtube.com/@algoritmei" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
         </a>
-    </div>
 </div>
 
 ---
 
 <div>
     <p>"Images of the flags provided by:"</p>
-
-###### https://br.freepik.com
+    <p>https://br.freepik.com
 </div>
-
