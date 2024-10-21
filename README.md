@@ -4,7 +4,7 @@
 
 <div>
     <a href="README.es.md">
-        <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 35px; height: auto;">
+        <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
     </a>
 </div>
    
