@@ -1,7 +1,7 @@
 Select your language: <br>
 <a href="README.es.md"> 
     <img src="Espanha.jpg" alt="Bandeira da Espanha" style="width: 40px; height: auto;">
-</a>
+</a>&nbsp
 <a href="README.en.md">
     <img src="Estados Unidos.jpg" alt="Bandeira dos Estados Unidos" style="width: 40px; height: 21px;">
 </a>
