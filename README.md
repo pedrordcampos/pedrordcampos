@@ -1,6 +1,6 @@
 #### Select your language: 
 
-<div align="center">
+<div>
     <a href="README.es.md">
         <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px;">
     </a>
@@ -89,5 +89,5 @@
 
 <div align="center">
     <p>"Imagens das bandeiras cedidas por:"</p>
-    <p>###### https://br.freepik.com</p>
+    <p>https://br.freepik.com</p>
 </div>
