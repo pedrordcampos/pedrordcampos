@@ -11,13 +11,13 @@
 
 ---
 
-<h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 </h1>
+<h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
 
-<div align="center">
+<div>
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
 </div>
 
-<div align="center">
+<div>
     👨‍🏫 Professor de Tecnologia da Informação. <br>
     ♟️ Entusiasta da arte de Caíssa (Xadrez). <br>
     🌍 Explorando novas culturas e aprendendo Espanhol 🇪🇸. <br>
