@@ -9,6 +9,8 @@
     </a>
 </div>
 
+---
+
 <h1 align="center">Oi! Seja muito bem-vindo!!! 🖖 </h1>
 
 <div align="center">
