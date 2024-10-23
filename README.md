@@ -9,7 +9,6 @@
     </a>
 </div>
 
----
 <div class="apresentacao">
     <h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
 </div>
@@ -18,7 +17,8 @@
     <p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.<p>
 </div>
 
-<h3>ASobre mim</h3>
+<h3>Sobre mim</h3>
+
 <div>
     *♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>
     * 🌍 Diariamente faço exercícios de gramático e aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>
