@@ -19,7 +19,7 @@
 </div>
 
 <div>
-    *♟️ Dedico uma parte do meu tempo livre para estudar sobre Xadrez, que sempre me trouxe fascínio, além de ser um excelente esporte mental. <br>
+    *♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>
     * 🌍 Diariamente faço exercícios de gramático e aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>
     * 📚 Sempre atualizo meus projetos e busco novos cursos para aprimorar meus conhecimentos e aprender coisas novas.<br>
     * 💖 Amo tudo relacionado a TI. Esse universo me encanta. Sempre que posso busco conhecimentos sobre o assunto.<br>
