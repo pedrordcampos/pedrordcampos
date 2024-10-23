@@ -11,7 +11,8 @@
 
 ---
 <div class="apresentacao"></div>
-<h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
+    <h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
+<div>
 <div>
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
 </div>
