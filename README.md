@@ -20,13 +20,13 @@
 <h3>Sobre mim</h3>
 
 <div>
-    *♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>
-    * 🌍 Diariamente aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>
-    * 📚 Sempre atualizo meus projetos e busco novos cursos para aprimorar meus conhecimentos e aprender coisas novas.<br>
-    * 💖 Amo tudo relacionado a TI. Esse universo me encanta. Sempre que posso busco mais sobre o assunto.<br>
-    * 💬 Gosto de conversar sobre novas tecnologias, conhecer novas formas de códigos ou linguagens.<br>
-    * 📖 Estou escrevendo um livro sobre ficção científica, que traz o mistério envolvendo o primeiro assassinato da história de um humanóide.<br>
-    * 🐕 Tenho dois lindos cachorrinhos: Thor e Zeus, que me trazem amor e alegria, mesmo nos momentos mais difíceis.<br>
+    •♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>
+    • 🌍 Diariamente aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>
+    • 📚 Sempre atualizo meus projetos e busco novos cursos para aprimorar meus conhecimentos e aprender coisas novas.<br>
+    • 💖 Amo tudo relacionado a TI. Esse universo me encanta. Sempre que posso busco mais sobre o assunto.<br>
+    • 💬 Gosto de conversar sobre novas tecnologias, conhecer novas formas de códigos ou linguagens.<br>
+    • 📖 Estou escrevendo um livro sobre ficção científica, que traz o mistério envolvendo o primeiro assassinato da história de um humanóide.<br>
+    • 🐕 Tenho dois lindos cachorrinhos: Thor e Zeus, que me trazem amor e alegria, mesmo nos momentos mais difíceis.<br>
 </div>
 
 ---
@@ -36,7 +36,7 @@
     <p>✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:</p>
 </div>
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
@@ -49,16 +49,7 @@
 
 ---
 
-<div align="center">
-    <h3>Sobre mim</h3>
-    <p>💻 Sou um desenvolvedor apaixonado por tecnologia e por compartilhar conhecimento.</p>
-    <p>🚀 Sempre em busca de aprender algo novo, seja um novo framework, uma nova linguagem ou uma nova cultura.</p>
-    <p>🤝 Adoro colaborar em projetos open-source e contribuir para a comunidade.</p>
-</div>
-
----
-
-<div align="center">
+<div>
     <h3>Vamos nos conectar?</h3>
     <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
