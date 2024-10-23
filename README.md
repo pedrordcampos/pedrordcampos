@@ -9,7 +9,7 @@
     </a>
 </div>
 
-<div class="apresentacao">
+<div>
     <h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
 </div>
 <div>
