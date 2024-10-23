@@ -7,37 +7,34 @@
     <img src="brasil.png" alt="Flag of Brazil" style="width:40px;">
 </a>
 
-<h1 align="center">Hi! You're very welcome!!! 🖖</h1>
-
-<div align="center">
-
+<div>
+    <h1>Hello! Welcome!!! 🖖 </h1>
 </div>
-
-<div align="center">
+<div>
     <h4>"Programmers and artists are the only professionals who have their profession as a hobby." — <i>Rafael Lain</i></h4>
+    <p>My name is Pedro, and I am a developer and information technology teacher.</p>
 </div>
 
-<div align="center">
-    👨‍🏫 Information Technology Teacher.
-</div>
-<div align="center">
-   ♟️ Enthusiast of Caissa's art (Chess).  
-</div>
-<div align="center">
-   🌍 Exploring new cultures and learning Spanish 🇪🇸.  
-</div>
-<div align="center">
-   📚 Always updating my projects and expanding my knowledge.  
+<h3>About Me</h3>
+
+<div>
+    • ♟️ I dedicate part of my time to studying chess, which has always fascinated me and is an excellent mental sport. <br>
+    • 🌍 I am learning a little more about a new language every day; currently, I am studying Spanish 🇪🇸. <br>
+    • 📚 I always update my projects and seek new courses to enhance my knowledge and learn new things.<br>
+    • 💖 I love everything related to IT. This universe enchants me. Whenever I can, I seek more about the subject.<br>
+    • 💬 I enjoy talking about new technologies, discovering new coding methods or languages.<br>
+    • 📖 I am writing a science fiction book that involves the mystery surrounding the first murder in the history of a humanoid.<br>
+    • 🐕 I have two lovely puppies: Thor and Zeus, who bring me love and joy, even in the most challenging times.<br>
 </div>
 
 ---
 
-<div align="center">
+<div>
     <h3>Technologies & Tools</h3>
-    ✏️ Below are the technologies and tools most recently used 
+    <p>✏️ Below are the most recently used technologies and tools:</p>
 </div>
-<br>
-<div align="center">
+
+<div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
@@ -50,21 +47,8 @@
 
 ---
 
-<div align="center">
-    <h3>About me</h3>
-        <div align="center">
-            💻 I'm a developer passionate about technology and sharing knowledge.
-        </div>
-        <div align="center">
-            🚀 Always seeking to learn something new, whether it's a new framework, a new language, or a new culture. 
-        </div>
-        <div align="center">
-        🤝 I love collaborating on open-source projects and contributing to the community. 
-        </div>
-</div>
-
-<div align="center">
-    <h3>Shall we connect?</h3>
+<div>
+    <h3>Let's Connect?</h3>
     <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -84,29 +68,22 @@
 
 ---
 
-<div align="center">
+<div>
     <h3>New Project!</h3>        
-    <div align="center">
-    ▶️ Technology Channel on YouTube: [Algoritmei] 
-    </div>
-    <div align="center">
-    🎥 If you're looking for clear and didactic content to learn about programming languages, software development, and other technological tools, this is the place for you!
-    </div>
+    <p>▶️ Technology channel on YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a></p>
+    <p>🎥 If you are looking for objective and didactic content to learn about programming languages, software development, and other technological tools, this is the right place for you!</p>
+    <p>🔔 Don't miss the opportunity to follow and learn with us. <strong>Visit now</strong> and subscribe to stay updated on all the news and videos!</p>
 </div>
-<br>
-<div align="center">
-    🔔 Don't miss the chance to follow and learn with us. <h2>Access now</h2> and subscribe to stay up to date with all the news and videos!
-</div>
-<br>
-<div align="center">
-        <a href="https://www.youtube.com/@algoritmei" target="_blank">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-        </a>
+
+<div>
+    <a href="https://www.youtube.com/@algoritmei" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
 </div>
 
 ---
 
 <div>
     <p>"Images of the flags provided by:"</p>
-    <p>https://br.freepik.com
+    <p>https://br.freepik.com</p>
 </div>
