@@ -10,12 +10,13 @@
 </div>
 
 ---
-
+<div class="apresentacao"></div>
 <h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
-<p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.<p>
 <div>
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
 </div>
+<p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.<p>
+
 
 <div>
     ♟️ Entusiasta da arte de Caíssa (Xadrez). <br>
