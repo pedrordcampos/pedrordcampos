@@ -24,7 +24,7 @@
     • 💖 Amo todo lo relacionado con TI. Este universo me encanta. Siempre que puedo, busco más sobre el tema.<br>
     • 💬 Me gusta hablar sobre nuevas tecnologías, descubrir nuevos métodos de codificación o lenguajes.<br>
     • 📖 Estoy escribiendo un libro de ciencia ficción que involucra el misterio que rodea el primer asesinato en la historia de un humanoide.<br>
-    • 🐕 Tengo dos adorables cachorros: Thor y Zeus, que me traen amor y alegría, incluso en los momentos más difíciles.<br>
+    • 🐕 Tengo dos adorables perros: Thor y Zeus, que me traen amor y alegría, incluso en los momentos más difíciles.<br>
 </div>
 
 ---
