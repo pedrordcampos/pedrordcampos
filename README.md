@@ -12,7 +12,7 @@
 ---
 
 <h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
-<h4>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.</h4>
+<p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.<p>
 <div>
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
 </div>
