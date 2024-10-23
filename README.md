@@ -18,6 +18,7 @@
     <p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.<p>
 </div>
 
+<h3>ASobre mim</h3>
 <div>
     *♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>
     * 🌍 Diariamente faço exercícios de gramático e aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>
@@ -30,7 +31,7 @@
 
 ---
 
-<div align="center">
+<div>
     <h3>Tecnologias & Ferramentas</h3>
     <p>✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:</p>
 </div>
