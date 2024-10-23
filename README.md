@@ -10,13 +10,14 @@
 </div>
 
 ---
-<div class="apresentacao"></div>
+<div class="apresentacao">
     <h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
-<div>
+</div>
 <div>
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
+    <p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.<p>
 </div>
-<p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.<p>
+
 
 
 <div>
