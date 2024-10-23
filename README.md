@@ -70,14 +70,14 @@
 
 ---
 
-<div align="center">
+<div>
     <h3>Novo Projeto!</h3>        
     <p>▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a></p>
     <p>🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!</p>
     <p>🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
 </div>
 
-<div align="center">
+<div>
     <a href="https://www.youtube.com/@algoritmei" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
