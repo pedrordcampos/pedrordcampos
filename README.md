@@ -12,13 +12,12 @@
 ---
 
 <h1>Oi! Seja muito bem-vindo!!! 🖖 </h1>
-<h4>Eu sou o Pedro, professor de tecnologia da informação do ensino médio no ensino público de São Paulo.</h4>
+<h4>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação.</h4>
 <div>
     <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i></h4>
 </div>
 
 <div>
-    👨‍🏫 Professor de Tecnologia da Informação. <br>
     ♟️ Entusiasta da arte de Caíssa (Xadrez). <br>
     🌍 Explorando novas culturas e aprendendo Espanhol 🇪🇸. <br>
     📚 Sempre atualizando meus projetos e expandindo meu conhecimento.  
