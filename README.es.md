@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=%C2%A1Hola!+%C2%A1Bienvenido!!!)](https://git.io/typing-svg)
 <div>
-    <p>Me llamo Pedro, soy desarrollador y profesor de tecnología de la información.</p>
+    <p>Me llamo Pedro, soy desarrollador y profesor de tecnología de la información. 🖖</p>
 </div>
 
 <h3>Sobre mí</h3>
