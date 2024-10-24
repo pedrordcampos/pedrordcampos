@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Hello!+Welcome!!!+)](https://git.io/typing-svg)
 
 <div>
-    <p>My name is Pedro, and I am a developer and information technology teacher.</p>
+    <p>My name is Pedro, and I am a developer and information technology teacher. 🖖</p> 
 </div>
 
 <h3>About Me</h3>
