@@ -7,10 +7,6 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
-<iframe src="https://gifer.com/embed/B9gx" width=480 height=240.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
-
-
-
 
 "Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — Rafael Lain
 
@@ -28,8 +24,6 @@ Sobre mim
 • 💬 Gosto de conversar sobre novas tecnologias, conhecer novas formas de códigos ou linguagens.<br>
 • 📖 Estou escrevendo um livro sobre ficção científica, que traz o mistério envolvendo o primeiro assassinato da história de um humanóide.<br>
 • 🐕 Tenho dois lindos cachorrinhos: Thor e Zeus, que me trazem amor e alegria, mesmo nos momentos mais difíceis.<br>
-
-# ![Linha](linha.gif)
 
 Tecnologias & Ferramentas
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:
