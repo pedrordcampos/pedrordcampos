@@ -6,7 +6,7 @@
 <a href="README.en.md">
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
-<a href="README.es.md">
+<a href="README.md">
     <img src="brasil.png" alt="Bandeira do Brasil" style="width: 40px;">
 </a>
 
