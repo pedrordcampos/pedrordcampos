@@ -1,6 +1,5 @@
 #### Select your language: 
 
-
 <a href="README.es.md">
     <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px;">
 </a>
@@ -8,13 +7,11 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
-
 "Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Oi%2C+Seja+bem-vindo!!!)](https://git.io/typing-svg)
 
-
-<p>Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 🖖<p>
+Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 🖖
 
 Sobre mim
 
@@ -33,18 +30,16 @@ Sobre mim
 Tecnologias & Ferramentas
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><br>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"><br>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><br>
 
 # ![Linha](linha.gif)
-
 
 Vamos nos conectar?
 <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
@@ -66,16 +61,15 @@ Vamos nos conectar?
 
 # ![Linha](linha.gif)
 
-<h3>Novo Projeto!</h3>        
-<p>▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a></p>
-<p>🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!</p>
-<p>🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
+Novo Projeto!        
+▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
+🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
+🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
 <a href="https://www.youtube.com/@algoritmei" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 # ![Linha](linha.gif)
 
-
-<p>"Imagens das bandeiras cedidas por:"</p>
-<p>https://br.freepik.com</p>
+"Imagens das bandeiras cedidas por:"
+https://br.freepik.com
