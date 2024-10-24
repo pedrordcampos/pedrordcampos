@@ -13,6 +13,7 @@
 
 Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 🖖
 
+# ![Linha](linha.gif)
 Sobre mim
 
 •♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>
