@@ -7,7 +7,7 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
-https://i.gifer.com/B9gx.gif
+<iframe src="https://gifer.com/embed/B9gx" width=480 height=240.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
 
 
 
