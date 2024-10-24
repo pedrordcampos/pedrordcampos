@@ -40,7 +40,7 @@ Tecnologias & Ferramentas
 </div>
 
 <br>
-Vamos nos conectar?
+Vamos nos conectar? <br>
 <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
