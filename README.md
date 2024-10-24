@@ -7,7 +7,7 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
-***
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0410.gif" border="0" alt="linha-imagem-animada-0410" /></a>
 
 
 
