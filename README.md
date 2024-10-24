@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
----
+# ![Linha](linha.gif)
 
 <div>
     <h3>Vamos nos conectar?</h3>
@@ -70,7 +70,7 @@
     </a>
 </div>
 
----
+# ![Linha](linha.gif)
 
 <div>
     <h3>Novo Projeto!</h3>        
@@ -85,7 +85,7 @@
     </a>
 </div>
 
----
+# ![Linha](linha.gif)
 
 <div>
     <p>"Imagens das bandeiras cedidas por:"</p>
