@@ -31,7 +31,7 @@
     • 🐕 Tenho dois lindos cachorrinhos: Thor e Zeus, que me trazem amor e alegria, mesmo nos momentos mais difíceis.<br>
 </div>
 
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" border="0" alt="linha-imagem-animada-0446" /></a>
+
 
 <div>
     <h3>Tecnologias & Ferramentas</h3>
