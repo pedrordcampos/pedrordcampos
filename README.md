@@ -7,7 +7,7 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
-[<a href="https://www.imagensanimadas.com/cat-linhas-divisorias-134.htm"><img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0097.gif" border="0" alt="linha-divisoria-imagem-animada-0097" /></a>](https://i.gifer.com/B9gx.gif)
+https://i.gifer.com/B9gx.gif
 
 
 
