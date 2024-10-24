@@ -8,10 +8,12 @@
 </a>
 
 <div>
-    <h1>Hello! Welcome!!! 🖖 </h1>
+     <h4>"Programmers and artists are the only professionals who have their profession as a hobby." — <i>Rafael Lain</i></h4>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Hello!+Welcome!!!+)](https://git.io/typing-svg)
+
 <div>
-    <h4>"Programmers and artists are the only professionals who have their profession as a hobby." — <i>Rafael Lain</i></h4>
     <p>My name is Pedro, and I am a developer and information technology teacher.</p>
 </div>
 
