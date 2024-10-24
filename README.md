@@ -65,7 +65,7 @@ Vamos nos conectar? <br>
 
 ### Novo Projeto!  
 <div>
-    ▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
+    ▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a><br>
     🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você! <br>
     🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
     <a href="https://www.youtube.com/@algoritmei" target="_blank">
