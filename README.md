@@ -7,7 +7,7 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
-"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — <i>Rafael Lain</i>
+"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — Rafael Lain
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Oi%2C+Seja+bem-vindo!!!)](https://git.io/typing-svg)
 
@@ -23,10 +23,6 @@ Sobre mim
 • 📖 Estou escrevendo um livro sobre ficção científica, que traz o mistério envolvendo o primeiro assassinato da história de um humanóide.<br>
 • 🐕 Tenho dois lindos cachorrinhos: Thor e Zeus, que me trazem amor e alegria, mesmo nos momentos mais difíceis.<br>
 
-
-# ![Linha](linha.gif)
-
-
 Tecnologias & Ferramentas
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:
 
@@ -38,8 +34,6 @@ Tecnologias & Ferramentas
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"><br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><br>
-
-# ![Linha](linha.gif)
 
 Vamos nos conectar?
 <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
@@ -58,9 +52,6 @@ Vamos nos conectar?
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
 </a>
 
-
-# ![Linha](linha.gif)
-
 Novo Projeto!        
 ▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
 🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
@@ -68,8 +59,6 @@ Novo Projeto!
 <a href="https://www.youtube.com/@algoritmei" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-
-# ![Linha](linha.gif)
 
 "Imagens das bandeiras cedidas por:"
 https://br.freepik.com
