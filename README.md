@@ -41,29 +41,33 @@ Tecnologias & Ferramentas
 
 <br>
 Vamos nos conectar? <br>
-<a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://instagram.com/pedrordcampos75" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="mailto:pedro.rdcampos@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://wa.me/5515997523275" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-<a href="https://www.duolingo.com/profile/PedroRdCampos75" target="_blank">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
-</a>
+<div>
+    <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://instagram.com/pedrordcampos75" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:pedro.rdcampos@hotmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://wa.me/5515997523275" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+    <a href="https://www.duolingo.com/profile/PedroRdCampos75" target="_blank">
+        <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
+    </a>
+</div>
 
-Novo Projeto!        
-▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
-🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
-🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
-<a href="https://www.youtube.com/@algoritmei" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
+Novo Projeto!  
+<div>
+    ▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
+    🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
+    🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
+    <a href="https://www.youtube.com/@algoritmei" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+</div>
 
 "Imagens das bandeiras cedidas por:"
 https://br.freepik.com
