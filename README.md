@@ -7,7 +7,8 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
----
+<hr style="border:1px solid #ccc;">
+
 
 "Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — Rafael Lain
 
