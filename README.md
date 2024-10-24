@@ -32,6 +32,7 @@
 </div>
 
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="linha-imagem-animada-0015" /></a>
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="linha-imagem-animada-0015" /></a>
 
 <div>
     <h3>Tecnologias & Ferramentas</h3>
