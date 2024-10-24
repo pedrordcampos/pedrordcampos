@@ -17,7 +17,7 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 
 ### Sobre mim
 
-• ♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental.<br>   
+• ♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>   
 • 🌍 Diariamente aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>
 • 📚 Sempre atualizo meus projetos e busco novos cursos para aprimorar meus conhecimentos e aprender coisas novas.<br> 
 • 💖 Amo tudo relacionado a TI. Esse universo me encanta. Sempre que posso busco mais sobre o assunto. <br>
@@ -66,7 +66,7 @@ Vamos nos conectar? <br>
 ### Novo Projeto!  
 <div>
     ▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
-    🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
+    🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você! <br>
     🔔 Não perca a oportunidade de acompanhar e aprender com a gente. <strong>Acesse agora</strong> e se inscreva para ficar por dentro de todas as novidades e vídeos!</p>
     <a href="https://www.youtube.com/@algoritmei" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
