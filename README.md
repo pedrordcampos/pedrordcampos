@@ -7,6 +7,8 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
+---
+
 "Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — Rafael Lain
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Oi%2C+Seja+bem-vindo!!!)](https://git.io/typing-svg)
