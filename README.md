@@ -1,4 +1,4 @@
-#### Select your language: 
+#### Select your language:
 
 <a href="README.es.md">
     <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px;">
@@ -7,25 +7,25 @@
     <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
 </a>
 
-
 "Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — Rafael Lain
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Oi%2C+Seja+bem-vindo!!!)](https://git.io/typing-svg)
 
 Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 🖖
 
+### Sobre mim
 
-Sobre mim
-
-•♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>
-• 🌍 Diariamente aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>
-• 📚 Sempre atualizo meus projetos e busco novos cursos para aprimorar meus conhecimentos e aprender coisas novas. <br>
-• 💖 Amo tudo relacionado a TI. Esse universo me encanta. Sempre que posso busco mais sobre o assunto. <br>
-• 💬 Gosto de conversar sobre novas tecnologias, conhecer novas formas de códigos ou linguagens. <br>
-• 📖 Estou escrevendo um livro sobre ficção científica, que traz o mistério envolvendo o primeiro assassinato da história de um humanóide. <br>
+• ♟️ Dedico uma parte do meu tempo para estudar sobre Xadrez, que sempre me trouxe fascínio e um excelente esporte mental. <br>  
+• 🌍 Diariamente aprendendo um pouco mais sobre uma nova língua, atualmente estou estudando Espanhol 🇪🇸. <br>  
+• 📚 Sempre atualizo meus projetos e busco novos cursos para aprimorar meus conhecimentos e aprender coisas novas. <br>  
+• 💖 Amo tudo relacionado a TI. Esse universo me encanta. Sempre que posso busco mais sobre o assunto. <br>  
+• 💬 Gosto de conversar sobre novas tecnologias, conhecer novas formas de códigos ou linguagens. <br>  
+• 📖 Estou escrevendo um livro sobre ficção científica, que traz o mistério envolvendo o primeiro assassinato da história de um humanóide. <br>  
 • 🐕 Tenho dois lindos cachorrinhos: Thor e Zeus, que me trazem amor e alegria, mesmo nos momentos mais difíceis. <br>
 
-Tecnologias & Ferramentas
+---
+
+### Tecnologias & Ferramentas  
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:
 
 <div>
@@ -59,7 +59,9 @@ Vamos nos conectar? <br>
     </a>
 </div>
 
-Novo Projeto!  
+---
+
+### Novo Projeto!  
 <div>
     ▶️ Canal sobre Tecnologia no YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a>
     🎥 Se você está em busca de conteúdo objetivo e didático para aprender sobre linguagens de programação, desenvolvimento de software e outras ferramentas tecnológicas, este é o lugar certo para você!
@@ -69,5 +71,7 @@ Novo Projeto!
     </a>
 </div>
 
-"Imagens das bandeiras cedidas por:"
+---
+
+"Imagens das bandeiras cedidas por:"  
 https://br.freepik.com
