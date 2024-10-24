@@ -1,18 +1,24 @@
 #### Select your language:
-<div>
-    <a href="README.es.md">
-        <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px;">
-    </a>
-    <a href="README.en.md">
-        <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
-    </a>
-</div>
+
+<a href="README.es.md">
+    <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px;">
+</a>
+<a href="README.en.md">
+    <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
+</a>
 
 <div>
-    "Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — Rafael Lain
+    <h4>"Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão." — Rafael Lain</h4>
 </div>
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Oi%2C+Seja+bem-vindo!!!)](https://git.io/typing-svg)
+
+<div>
+    <p>Me llamo Pedro, soy desarrollador y profesor de tecnología de la información. 🖖</p>
+</div>
+
+<h3>Sobre mí</h3>
+
 
 
 Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 🖖
