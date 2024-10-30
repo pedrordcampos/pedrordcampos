@@ -14,7 +14,7 @@
     <h4>"Los programadores y los artistas son los únicos profesionales que tienen su propia profesión como pasatiempo." — Rafael Lain</h4>
 </div>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Hola%2C+%C2%A1Bienvenido!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Hola%2C+%C2%A1Bienvenido!!!)](https://git.io/typing-svg)
 
 Mi nombre es Pedro, y soy desarrollador y profesor de TI. 🖖
 
