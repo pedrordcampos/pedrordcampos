@@ -32,31 +32,23 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 
 ### Tecnologias & Ferramentas  
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:
+Tecnologias & Ferramentas
+✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente, organizadas por categoria:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,cypress,mysql,nodejs,php,postman,bash,bootstrap,c,docker,git,github,gitlab,ai,java,jquery,linux,npm,py,react,sass,sqlite,vscode,vue,wordpress" />
-  </a>
-</p>
-<br>
-Vamos nos conectar? <br>
-<div>
-    <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://instagram.com/pedrordcampos75" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:pedro.rdcampos@hotmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://wa.me/5515997523275" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="https://www.duolingo.com/profile/PedroRdCampos75" target="_blank">
-        <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
-    </a>
-</div>
+Linguagens de Programação
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,php,py,java,c" alt="Linguagens de Programação"/> </a> </p>
+Frameworks e Bibliotecas
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,vue,laravel,jquery,bootstrap,sass" alt="Frameworks e Bibliotecas"/> </a> </p>
+Banco de Dados
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Banco de Dados"/> </a> </p>
+Ferramentas de Desenvolvimento e Versionamento
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,cypress" alt="Ferramentas de Desenvolvimento e Versionamento"/> </a> </p>
+Desenvolvimento Web
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,wordpress,nodejs" alt="Desenvolvimento Web"/> </a> </p>
+Sistemas e Gerenciamento de Pacotes
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,npm,bash" alt="Sistemas e Gerenciamento de Pacotes"/> </a> </p>
+Design e Prototipagem
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ai" alt="Design e Prototipagem"/> </a> </p>
 
 ---
 
