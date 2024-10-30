@@ -35,20 +35,23 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 Tecnologias & Ferramentas
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente, organizadas por categoria:
 
-Linguagens de Programação
+#### Linguagens de Programação
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,php,py,java,c" alt="Linguagens de Programação"/> </a> </p>
-Frameworks e Bibliotecas
+
+#### Frameworks e Bibliotecas
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,vue,laravel,jquery,bootstrap,sass" alt="Frameworks e Bibliotecas"/> </a> </p>
-Banco de Dados
+
+#### Banco de Dados
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Banco de Dados"/> </a> </p>
-Ferramentas de Desenvolvimento e Versionamento
+
+#### Ferramentas de Desenvolvimento e Versionamento
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,cypress" alt="Ferramentas de Desenvolvimento e Versionamento"/> </a> </p>
-Desenvolvimento Web
+
+#### Desenvolvimento Web
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,wordpress,nodejs" alt="Desenvolvimento Web"/> </a> </p>
-Sistemas e Gerenciamento de Pacotes
+
+#### Sistemas e Gerenciamento de Pacotes
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,npm,bash" alt="Sistemas e Gerenciamento de Pacotes"/> </a> </p>
-Design e Prototipagem
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ai" alt="Design e Prototipagem"/> </a> </p>
 
 ---
 
