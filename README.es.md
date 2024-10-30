@@ -1,85 +1,63 @@
-#### Select your language :
+#### Selecciona tu idioma:
 
 <a href="README.es.md">
-    <img src="espanha.png" alt="Bandeira da Espanha" style="width: 40px;">
+    <img src="espanha.png" alt="Bandera de España" style="width: 40px;">
 </a>
 <a href="README.en.md">
-    <img src="estadosunidos.png" alt="Bandeira dos Estados Unidos" style="width: 40px;">
+    <img src="estadosunidos.png" alt="Bandera de Estados Unidos" style="width: 40px;">
 </a>
 <a href="README.md">
-    <img src="brasil.png" alt="Bandeira do Brasil" style="width: 40px;">
+    <img src="brasil.png" alt="Bandera de Brasil" style="width: 40px;">
 </a>
 
 <div>
-    <h4>"Los programadores y los artistas son los únicos profesionales que tienen como hobby su propia profesión." — <i>Rafael Lain</i></h4>
+    <h4>"Los programadores y los artistas son los únicos profesionales que tienen su propia profesión como pasatiempo." — Rafael Lain</h4>
 </div>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Hola%2C+%C2%A1Bienvenido!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=%C2%A1Hola!+%C2%A1Bienvenido!!!)](https://git.io/typing-svg)
-<div>
-    <p>Me llamo Pedro, soy desarrollador y profesor de tecnología de la información. 🖖</p>
-</div>
+Mi nombre es Pedro, y soy desarrollador y profesor de TI. 🖖
 
-<h3>Sobre mí</h3>
+### Sobre mí
 
-<div>
-    • ♟️ Dedico parte de mi tiempo a estudiar ajedrez, que siempre me ha fascinado y es un excelente deporte mental. <br>
-    • 🌍 Aprendiendo un poco más sobre un nuevo idioma cada día; actualmente estoy estudiando español 🇪🇸. <br>
-    • 📚 Siempre actualizo mis proyectos y busco nuevos cursos para mejorar mis conocimientos y aprender cosas nuevas.<br>
-    • 💖 Amo todo lo relacionado con TI. Este universo me encanta. Siempre que puedo, busco más sobre el tema.<br>
-    • 💬 Me gusta hablar sobre nuevas tecnologías, descubrir nuevos métodos de codificación o lenguajes.<br>
-    • 📖 Estoy escribiendo un libro de ciencia ficción que involucra el misterio que rodea el primer asesinato en la historia de un humanoide.<br>
-    • 🐕 Tengo dos adorables perros: Thor y Zeus, que me traen amor y alegría, incluso en los momentos más difíciles.<br>
-</div>
+• ♟️ Dedico parte de mi tiempo a estudiar ajedrez, que siempre me ha fascinado como un excelente deporte mental. <br> 
+• 🌍 Estoy constantemente aprendiendo un nuevo idioma; actualmente estoy estudiando español 🇪🇸. <br>
+• 📚 Regularmente actualizo mis proyectos y busco nuevos cursos para expandir mis conocimientos y aprender cosas nuevas.<br> 
+• 💖 Me apasiona todo lo relacionado con la TI. Este universo me cautiva y siempre busco aprender más sobre él. <br>
+• 💬 Disfruto hablando sobre nuevas tecnologías y explorando diferentes técnicas de codificación o lenguajes. <br>
+• 📖 Estoy escribiendo un libro de ciencia ficción que explora el misterio del primer homicidio en la historia de un humanoide. <br>
+• 🐕 Tengo dos adorables perros: Thor y Zeus, quienes me brindan amor y alegría, incluso en los momentos más difíciles. <br>
 
 ---
 
-<div>
-    <h3>Tecnologías y herramientas</h3>
-    <p>✏️ A continuación, las tecnologías y herramientas más utilizadas recientemente:</p>
-</div>
+### Tecnologías y Herramientas  
+✏️ A continuación, las tecnologías y herramientas que he utilizado recientemente, organizadas por categoría:
 
-<div>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-</div>
+#### Lenguajes de Programación
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,php,py,java,c" alt="Lenguajes de Programación"/> </a> </p>
 
----
+#### Frameworks y Librerías
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,vue,laravel,jquery,bootstrap,sass" alt="Frameworks y Librerías"/> </a> </p>
 
-<div>
-    <h3>¿Conectamos?</h3>
-    <a href="https://www.linkedin.com/in/pedro-ricardo-de-campos/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://instagram.com/pedrordcampos75" target="_blank">
-        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:pedro.rdcampos@hotmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://wa.me/5515997523275" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="https://www.duolingo.com/profile/PedroRdCampos75" target="_blank">
-        <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
-    </a>
-</div>
+#### Bases de Datos
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Bases de Datos"/> </a> </p>
+
+#### Herramientas de Desarrollo y Control de Versiones
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,cypress" alt="Herramientas de Desarrollo y Control de Versiones"/> </a> </p>
+
+#### Desarrollo Web
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,wordpress,nodejs" alt="Desarrollo Web"/> </a> </p>
+
+#### Sistemas y Gestión de Paquetes
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,npm,bash" alt="Sistemas y Gestión de Paquetes"/> </a> </p>
 
 ---
 
+### ¡Nuevo Proyecto!  
 <div>
-    <h3>¡Nuevo proyecto!</h3>        
-    <p>▶️ Canal de tecnología en YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a></p>
-    <p>🎥 Si estás buscando contenido objetivo y didáctico para aprender sobre lenguajes de programación, desarrollo de software y otras herramientas tecnológicas, ¡este es el lugar adecuado para ti!</p>
-    <p>🔔 No pierdas la oportunidad de seguir y aprender con nosotros. <strong>Visítanos ahora</strong> y suscríbete para estar al tanto de todas las novedades y videos.</p>
-</div>
-
-<div>
+    <p>▶️ Canal de Tecnología en YouTube: <a href="https://www.youtube.com/@algoritmei" target="_blank">[Algoritmei]</a></p>
+    <p>🎥 Si estás buscando contenido conciso y educativo para aprender sobre lenguajes de programación, desarrollo de software y otras herramientas tecnológicas, ¡este es el lugar indicado para ti!</p>
+    <p>🔔 No pierdas la oportunidad de seguirnos y aprender con nosotros. <strong>Accede ahora</strong> y suscríbete para estar al tanto de todas las novedades y videos!</p>
     <a href="https://www.youtube.com/@algoritmei" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
@@ -87,7 +65,5 @@
 
 ---
 
-<div>
-    <p>"Imágenes de las banderas proporcionadas por:"</p>
-    <p>https://br.freepik.com</p>
-</div>
+"Imágenes de banderas proporcionadas por:"  
+https://br.freepik.com
