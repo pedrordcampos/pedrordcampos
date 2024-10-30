@@ -36,19 +36,19 @@ Tecnologias & Ferramentas
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente, organizadas por categoria:
 
 Linguagens de Programação
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,php,py,java,c" alt="Linguagens de Programação"/> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,php,py,java,c" alt="Linguagens de Programação"/> </a> </p>
 Frameworks e Bibliotecas
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,vue,laravel,jquery,bootstrap,sass" alt="Frameworks e Bibliotecas"/> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,vue,laravel,jquery,bootstrap,sass" alt="Frameworks e Bibliotecas"/> </a> </p>
 Banco de Dados
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Banco de Dados"/> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Banco de Dados"/> </a> </p>
 Ferramentas de Desenvolvimento e Versionamento
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,cypress" alt="Ferramentas de Desenvolvimento e Versionamento"/> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,cypress" alt="Ferramentas de Desenvolvimento e Versionamento"/> </a> </p>
 Desenvolvimento Web
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,wordpress,nodejs" alt="Desenvolvimento Web"/> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,wordpress,nodejs" alt="Desenvolvimento Web"/> </a> </p>
 Sistemas e Gerenciamento de Pacotes
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,npm,bash" alt="Sistemas e Gerenciamento de Pacotes"/> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,npm,bash" alt="Sistemas e Gerenciamento de Pacotes"/> </a> </p>
 Design e Prototipagem
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ai" alt="Design e Prototipagem"/> </a> </p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ai" alt="Design e Prototipagem"/> </a> </p>
 
 ---
 
