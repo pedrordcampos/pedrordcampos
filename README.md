@@ -35,7 +35,7 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,cypress,mysql,nodejs,php,postman,bash,bootstrap,c,docker,git,github,gitlab,ai,java,jquery,linux,npm,py,react,sass,sqlite,vscode,vue,wordpress" />
   </a>
 </p>
 <br>
