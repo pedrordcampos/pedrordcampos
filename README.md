@@ -31,8 +31,6 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 ---
 
 ### Tecnologias & Ferramentas  
-✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:
-Tecnologias & Ferramentas
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente, organizadas por categoria:
 
 #### Linguagens de Programação
