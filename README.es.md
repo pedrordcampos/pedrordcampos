@@ -9,9 +9,6 @@
 <a href="README.md">
     <img src="brasil.png" alt="Bandera de Brasil" style="width: 40px;">
 </a>
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; text-align: center;">
-    <h4>"Los programadores y los artistas son los únicos profesionales que tienen su propia profesión como pasatiempo." — Rafael Lain</h4>
-</div>
 
 <div>
     <h4>"Los programadores y los artistas son los únicos profesionales que tienen su propia profesión como pasatiempo." — Rafael Lain</h4>
