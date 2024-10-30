@@ -33,21 +33,11 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 ### Tecnologias & Ferramentas  
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente:
 
-<div>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-    Version Control
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png style="width: 40px;">
-    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png style="width: 40px;"> 
-    <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png style="width: 40px;">
-    Tools
-    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png style="width: 40px;">
-    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png style="width: 40px;">
-    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png style="width: 40px;">
-    Web Dev
-    
-
-</div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <br>
 Vamos nos conectar? <br>
 <div>
