@@ -64,6 +64,8 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 </div>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pedrordcampos&label=Visitantes&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
+---
 "Imagens das bandeiras cedidas por:"  
 https://br.freepik.com
