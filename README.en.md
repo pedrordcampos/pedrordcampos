@@ -15,7 +15,7 @@
 ## ✍️ Motivational Quote
 
 <div>
-    <h4>"Programmers and artists are the only professionals who have their hobby as their job." — Rafael Lain</h4>
+    <h4>"Programmers and artists are the only professionals who have their hobby as their job." — Rafael Lain</h4><br>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=Hi%2C+Welcome!!!)](https://git.io/typing-svg)
