@@ -33,6 +33,8 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 Use o aplicativo que eu criei e veja quem não te segue de volta no GitHub
 https://pedrordcampos.github.io/unfollowme/
 
+---
+
 ### Tecnologias & Ferramentas  
 ✏️ Logo abaixo, as tecnologias e ferramentas mais utilizadas recentemente, organizadas por categoria:
 
