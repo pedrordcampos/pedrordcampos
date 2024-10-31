@@ -15,7 +15,7 @@
 ## ✍️ Frase motivacional
 
 <div>
-    <h4>"Los programadores y artistas son los únicos profesionales que tienen como hobby su propia profesión." — Rafael Lain</h4>
+    <h4>"Los programadores y artistas son los únicos profesionales que tienen como hobby su propia profesión." — Rafael Lain</h4><br>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=D3D3D3&width=435&lines=%C2%A1Hola%2C+Bienvenido%21%21%21)](https://git.io/typing-svg)
