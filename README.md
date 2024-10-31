@@ -29,7 +29,7 @@ Eu me chamo Pedro, sou desenvolvedor e professor de tecnologia da informação. 
 • 🐕 Tenho dois lindos cachorrinhos: Thor e Zeus, que me trazem amor e alegria, mesmo nos momentos mais difíceis. <br>
 
 ---
-### Meu novo app:
+### Meu novo projeto: O app unfollow.me?:
 [Clique aqui](https://pedrordcampos.github.io/unfollowme/) e veja quem não te segue de volta do GitHub! 
 
 ---
