@@ -1,6 +1,6 @@
 # Perfil - GitHub
 
-#### Selecciona tu idioma:
+#### Select your language:
 
 <a href="README.es.md">
     <img src="espanha.png" alt="Bandera de España" style="width: 40px;">
