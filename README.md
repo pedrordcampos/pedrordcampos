@@ -47,8 +47,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=pedrordcampos&label=Visitantes&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
-"Imagens das bandeiras cedidas por:"  
+"Imagens das bandeiras disponível em:"  
 https://br.freepik.com
 
-"Ícones das skills cedidas por:
+"Ícones das skills disponível em:"
 https://skillicons.dev
+
+"Texto animado SVG, disponível em:"
+https://readme-typing-svg.demolab.com/demo/
