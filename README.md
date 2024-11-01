@@ -49,3 +49,6 @@
 
 "Imagens das bandeiras cedidas por:"  
 https://br.freepik.com
+
+"Ícones das skills cedidas por:
+https://skillicons.dev
