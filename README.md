@@ -39,7 +39,7 @@
 <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,js,php,java,c,vue,react,laravel,jquery,bootstrap,sass,mysql,sqlite,git,github,vscode,postman,cypress,html,css,nodejs,npm" alt="habilidades"/>
 
 
-## 💻 Meus aplicativo feito com HTML, CSS e Javascript 
+## 💻 Meus aplicativos feitos com HTML, CSS e Javascript 
 ### - Unfollow.me?
 [Clique aqui](https://pedrordcampos.github.io/unfollowme/) e veja quem não te segue de volta do GitHub! 
 
