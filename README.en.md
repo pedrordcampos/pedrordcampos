@@ -43,7 +43,7 @@
 [Click here](https://pedrordcampos.github.io/unfollowme/) to see who doesn’t follow you back on GitHub! 
 
 ### - Where are you from?
-[Clique aqui](https://pedrordcampos.github.io/whereareyoufrom/) to see what country your GitHub followers are from!
+[Click here](https://pedrordcampos.github.io/whereareyoufrom/) to see what country your GitHub followers are from!
 
 
 ## ✅ Appendix
